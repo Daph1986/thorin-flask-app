@@ -6,7 +6,7 @@
 
 Walkthrough project for Code Institute Thorin Flask App - Backend Development.
 
-<!-- ## Demo
+## Demo
 
 A link tot the live demo version:
-https://daph1986.github.io/UCD-resume/ -->
+https://thorin-flask-app-daphne.herokuapp.com/

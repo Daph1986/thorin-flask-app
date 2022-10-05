@@ -8,5 +8,4 @@ Walkthrough project for Code Institute Thorin Flask App - Backend Development.
 
 ## Demo
 
-A link tot the live demo version:
-https://thorin-flask-app-daphne.herokuapp.com/
+Due to changes on Heroku, there is no longer a demo link available.
